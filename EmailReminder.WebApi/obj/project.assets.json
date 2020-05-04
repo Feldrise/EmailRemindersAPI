@@ -1,0 +1,84 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmailReminder.shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/EmailReminder.shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmailReminder.shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailReminder.shared/1.0.0": {
+      "type": "project",
+      "path": "../EmailReminder.shared/EmailReminder.shared.csproj",
+      "msbuildProject": "../EmailReminder.shared/EmailReminder.shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "EmailReminder.shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\victo\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\victo\\Documents\\Projets\\API\\Course\\EmailReminder\\EmailReminder.WebApi\\EmailReminder.WebApi.csproj",
+      "projectName": "EmailReminder.WebApi",
+      "projectPath": "C:\\Users\\victo\\Documents\\Projets\\API\\Course\\EmailReminder\\EmailReminder.WebApi\\EmailReminder.WebApi.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\victo\\Documents\\Projets\\API\\Course\\EmailReminder\\EmailReminder.WebApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\victo\\Documents\\Projets\\API\\Course\\EmailReminder\\EmailReminder.shared\\EmailReminder.shared.csproj": {
+              "projectPath": "C:\\Users\\victo\\Documents\\Projets\\API\\Course\\EmailReminder\\EmailReminder.shared\\EmailReminder.shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

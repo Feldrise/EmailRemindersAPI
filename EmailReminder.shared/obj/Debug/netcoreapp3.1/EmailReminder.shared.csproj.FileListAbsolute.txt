@@ -1,0 +1,9 @@
+C:\Users\victo\Documents\Projets\API\Course\EmailReminder\EmailReminder.shared\bin\Debug\netcoreapp3.1\EmailReminder.shared.deps.json
+C:\Users\victo\Documents\Projets\API\Course\EmailReminder\EmailReminder.shared\bin\Debug\netcoreapp3.1\EmailReminder.shared.dll
+C:\Users\victo\Documents\Projets\API\Course\EmailReminder\EmailReminder.shared\bin\Debug\netcoreapp3.1\EmailReminder.shared.pdb
+C:\Users\victo\Documents\Projets\API\Course\EmailReminder\EmailReminder.shared\obj\Debug\netcoreapp3.1\EmailReminder.shared.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\Projets\API\Course\EmailReminder\EmailReminder.shared\obj\Debug\netcoreapp3.1\EmailReminder.shared.AssemblyInfoInputs.cache
+C:\Users\victo\Documents\Projets\API\Course\EmailReminder\EmailReminder.shared\obj\Debug\netcoreapp3.1\EmailReminder.shared.AssemblyInfo.cs
+C:\Users\victo\Documents\Projets\API\Course\EmailReminder\EmailReminder.shared\obj\Debug\netcoreapp3.1\EmailReminder.shared.dll
+C:\Users\victo\Documents\Projets\API\Course\EmailReminder\EmailReminder.shared\obj\Debug\netcoreapp3.1\EmailReminder.shared.pdb
+C:\Users\victo\Documents\Projets\API\Course\EmailReminder\EmailReminder.shared\obj\Debug\netcoreapp3.1\EmailReminder.shared.csprojAssemblyReference.cache
